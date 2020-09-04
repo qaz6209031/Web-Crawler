@@ -1,2 +1,1 @@
-# Web Crawler for movie titles ptt
- Get the list of movie titles from ppt
+Python 網路爬蟲 Web Crawler 教學 - Cookie 操作實務 
